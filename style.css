@@ -178,7 +178,7 @@
   position: absolute;
   bottom: -10px;
   right: 20%;
-  background: #f5f5f5; 
+  background: #f5f5f5;
   width: 60px;
   height: 20px;
 }
@@ -269,11 +269,11 @@
   }
   75% {
     bottom: 50px;
-    right: -20px;
+    right: -10px;
   }
   85% {
     bottom: -10px;
-    right: -20px;
+    right: -10px;
   }
   100% {
     bottom: -10px;
